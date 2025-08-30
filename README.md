@@ -35,8 +35,8 @@ Você pode acessar o projeto funcionando em:
 https://seu-usuario.github.io/WeCare-page/
 
 ## Tecnologias
-HTML
-CSS
+- HTML
+- CSS
 ## Contribuição
 Sinta-se à vontade para abrir issues ou pull requests.
 
