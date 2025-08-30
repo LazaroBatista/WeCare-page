@@ -26,7 +26,7 @@ Projeto simples de landing page que apresenta os serviços da WeCare, com layout
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/WeCare-page.git
+git clone https://github.com/LazaroBatista/WeCare-page.git
 ```
 Abra o arquivo index.html no navegador.
 
