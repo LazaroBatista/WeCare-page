@@ -32,7 +32,7 @@ Abra o arquivo index.html no navegador.
 
 ## Acesse online
 Você pode acessar o projeto funcionando em:
-https://seu-usuario.github.io/WeCare-page/
+https://LazaroBatista.github.io/WeCare-page/
 
 ## Tecnologias
 - HTML
